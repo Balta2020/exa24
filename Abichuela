@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,La Liga
+https://d184wngx6331xr.cloudfront.net/out/v1/c1dd9b2dd8e2498eaef7fd16d4b8ba22/index_1.m3u8
+#EXTINF:-1 ,SOCCER
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/8d93ac1d80fc429d8a4bfb52ff8e427f/index3.m3u8
+#EXTINF:-1 ,PREMIER
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_1.m3u8
+#EXTINF:-1 ,Francia
+https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_4.m3u8
+#EXTINF:-1 ,SPORTV 
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,Bundesliga
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_1.m3u8
+#EXTINF:-1 ,Bundesliga 2
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com:443/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_2.m3u8
+#EXTINF:-1 ,PREMIER 2
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1.m3u8
+#EXTINF:-1 ,PREMIER 3
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_1.m3u8
